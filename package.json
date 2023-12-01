@@ -1,0 +1,22 @@
+{
+  "name": "dockerapp",
+  "version": "1.0.0",
+  "description": "docker tutorial with Node/Express App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ifehacker/dockerApp.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "ifehacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifehacker/dockerApp/issues"
+  },
+  "homepage": "https://github.com/ifehacker/dockerApp#readme"
+}
